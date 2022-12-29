@@ -1,0 +1,17 @@
+C:\Users\ProgoldWeb\source\repos\ePizzaHub29122022\ePizzaHub.Respositories\bin\Debug\net6.0\ePizzaHub.Respositories.deps.json
+C:\Users\ProgoldWeb\source\repos\ePizzaHub29122022\ePizzaHub.Respositories\bin\Debug\net6.0\ePizzaHub.Respositories.dll
+C:\Users\ProgoldWeb\source\repos\ePizzaHub29122022\ePizzaHub.Respositories\bin\Debug\net6.0\ePizzaHub.Respositories.pdb
+C:\Users\ProgoldWeb\source\repos\ePizzaHub29122022\ePizzaHub.Respositories\bin\Debug\net6.0\ePizzaHub.Core.dll
+C:\Users\ProgoldWeb\source\repos\ePizzaHub29122022\ePizzaHub.Respositories\bin\Debug\net6.0\ePizzaHub.Models.dll
+C:\Users\ProgoldWeb\source\repos\ePizzaHub29122022\ePizzaHub.Respositories\bin\Debug\net6.0\ePizzaHub.Core.pdb
+C:\Users\ProgoldWeb\source\repos\ePizzaHub29122022\ePizzaHub.Respositories\bin\Debug\net6.0\ePizzaHub.Models.pdb
+C:\Users\ProgoldWeb\source\repos\ePizzaHub29122022\ePizzaHub.Respositories\obj\Debug\net6.0\ePizzaHub.Respositories.csproj.AssemblyReference.cache
+C:\Users\ProgoldWeb\source\repos\ePizzaHub29122022\ePizzaHub.Respositories\obj\Debug\net6.0\ePizzaHub.Respositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ProgoldWeb\source\repos\ePizzaHub29122022\ePizzaHub.Respositories\obj\Debug\net6.0\ePizzaHub.Respositories.AssemblyInfoInputs.cache
+C:\Users\ProgoldWeb\source\repos\ePizzaHub29122022\ePizzaHub.Respositories\obj\Debug\net6.0\ePizzaHub.Respositories.AssemblyInfo.cs
+C:\Users\ProgoldWeb\source\repos\ePizzaHub29122022\ePizzaHub.Respositories\obj\Debug\net6.0\ePizzaHub.Respositories.csproj.CoreCompileInputs.cache
+C:\Users\ProgoldWeb\source\repos\ePizzaHub29122022\ePizzaHub.Respositories\obj\Debug\net6.0\ePizzaHub.Respositories.csproj.CopyComplete
+C:\Users\ProgoldWeb\source\repos\ePizzaHub29122022\ePizzaHub.Respositories\obj\Debug\net6.0\ePizzaHub.Respositories.dll
+C:\Users\ProgoldWeb\source\repos\ePizzaHub29122022\ePizzaHub.Respositories\obj\Debug\net6.0\refint\ePizzaHub.Respositories.dll
+C:\Users\ProgoldWeb\source\repos\ePizzaHub29122022\ePizzaHub.Respositories\obj\Debug\net6.0\ePizzaHub.Respositories.pdb
+C:\Users\ProgoldWeb\source\repos\ePizzaHub29122022\ePizzaHub.Respositories\obj\Debug\net6.0\ref\ePizzaHub.Respositories.dll

@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ePizzaHub.Core\ePizzaHub.Core.csproj" />
+    <ProjectReference Include="..\ePizzaHub.Models\ePizzaHub.Models.csproj" />
+    <ProjectReference Include="..\ePizzaHub.Respositories\ePizzaHub.Respositories.csproj" />
+  </ItemGroup>
+
+</Project>

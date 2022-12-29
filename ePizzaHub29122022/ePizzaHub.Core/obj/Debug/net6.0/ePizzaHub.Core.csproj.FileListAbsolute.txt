@@ -1,0 +1,12 @@
+C:\Users\ProgoldWeb\source\repos\ePizzaHub29122022\ePizzaHub.Core\bin\Debug\net6.0\ePizzaHub.Core.deps.json
+C:\Users\ProgoldWeb\source\repos\ePizzaHub29122022\ePizzaHub.Core\bin\Debug\net6.0\ePizzaHub.Core.dll
+C:\Users\ProgoldWeb\source\repos\ePizzaHub29122022\ePizzaHub.Core\bin\Debug\net6.0\ePizzaHub.Core.pdb
+C:\Users\ProgoldWeb\source\repos\ePizzaHub29122022\ePizzaHub.Core\obj\Debug\net6.0\ePizzaHub.Core.csproj.AssemblyReference.cache
+C:\Users\ProgoldWeb\source\repos\ePizzaHub29122022\ePizzaHub.Core\obj\Debug\net6.0\ePizzaHub.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ProgoldWeb\source\repos\ePizzaHub29122022\ePizzaHub.Core\obj\Debug\net6.0\ePizzaHub.Core.AssemblyInfoInputs.cache
+C:\Users\ProgoldWeb\source\repos\ePizzaHub29122022\ePizzaHub.Core\obj\Debug\net6.0\ePizzaHub.Core.AssemblyInfo.cs
+C:\Users\ProgoldWeb\source\repos\ePizzaHub29122022\ePizzaHub.Core\obj\Debug\net6.0\ePizzaHub.Core.csproj.CoreCompileInputs.cache
+C:\Users\ProgoldWeb\source\repos\ePizzaHub29122022\ePizzaHub.Core\obj\Debug\net6.0\ePizzaHub.Core.dll
+C:\Users\ProgoldWeb\source\repos\ePizzaHub29122022\ePizzaHub.Core\obj\Debug\net6.0\refint\ePizzaHub.Core.dll
+C:\Users\ProgoldWeb\source\repos\ePizzaHub29122022\ePizzaHub.Core\obj\Debug\net6.0\ePizzaHub.Core.pdb
+C:\Users\ProgoldWeb\source\repos\ePizzaHub29122022\ePizzaHub.Core\obj\Debug\net6.0\ref\ePizzaHub.Core.dll

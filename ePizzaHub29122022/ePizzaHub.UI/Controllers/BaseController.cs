@@ -5,10 +5,8 @@ using Microsoft.AspNetCore.Mvc.Razor.Internal;
 using System.Security.Claims;
 using System.Text.Json;
 
-namespace ePizzaHub.UI.Areas.Admin.Controllers
+namespace ePizzaHub.UI.Controllers
 {
-    [CustomAuthorize(Roles="Admin")]
-    [Area("Admin")]
     public class BaseController : Controller
     {
         [RazorInject]

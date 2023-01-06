@@ -7,11 +7,7 @@ using ePizzaHub.Services.Interfaces;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+
 
 namespace ePizzaHub.Services
 {
@@ -28,13 +24,18 @@ namespace ePizzaHub.Services
             services.AddScoped<DbContext, AppDbContext>();
 
             services.AddScoped<IRepository<Item>, Repository<Item>>();
+            services.AddScoped<IRepository<CartItem>, Repository<CartItem>>();
+            services.AddScoped<IRepository<Cart>, Repository<Cart>>();
 
             services.AddScoped<IUserRepository, UserRepository>();
+            services.AddScoped<ICartRepository, CartRepository>();
 
             //services
             services.AddScoped<IService<Item>, Service<Item>>();
+
             services.AddScoped<IAuthService,AuthService>();
             services.AddScoped<IItemService, ItemService>();
+            services.AddScoped<ICartService, CartService>();
         }
     }
 }

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Bf3MmSW0PeNIB70tDL2gXXppLgsUNRyv0BBAfW4kou4=",
+  "Hash": "5v4z/60k/jhHbQstudKBp12ke9YiKi3G4MAySRgooT4=",
   "Source": "ePizzaHub.UI",
   "BasePath": "_content/ePizzaHub.UI",
   "Mode": "Default",
@@ -321,6 +321,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\veggie_pizza.webp"
+    },
+    {
+      "Identity": "C:\\Users\\ProgoldWeb\\source\\repos\\ePizzaHub29122022\\ePizzaHub.UI\\wwwroot\\js\\cart.js",
+      "SourceId": "ePizzaHub.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ProgoldWeb\\source\\repos\\ePizzaHub29122022\\ePizzaHub.UI\\wwwroot\\",
+      "BasePath": "_content/ePizzaHub.UI",
+      "RelativePath": "js/cart.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\cart.js"
     },
     {
       "Identity": "C:\\Users\\ProgoldWeb\\source\\repos\\ePizzaHub29122022\\ePizzaHub.UI\\wwwroot\\js\\site.js",

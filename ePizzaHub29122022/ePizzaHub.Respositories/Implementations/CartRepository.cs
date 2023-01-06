@@ -34,7 +34,7 @@ namespace ePizzaHub.Respositories.Implementations
 
         public Cart GetCart(Guid CartId)
         {
-            return context.Carts.Where(p => p.Id == CartId && p.IsActive == true).FirstOrDefault();
+            return context.Carts.Include(c => c.CartItems).Where(p => p.Id == CartId && p.IsActive == true).FirstOrDefault();
         }
 
         public CartModel GetCartDetails(Guid CartId)

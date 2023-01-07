@@ -96,14 +96,14 @@ namespace ePizzaHub.UI.Controllers
         {
             if (ModelState.IsValid)
             {
-                //CartModel cart = _cartService.GetCartDetails(CartId);
-                //if (cart != null && CurrentUser != null && cart.UserId == 0)
-                //{
-                //    _cartService.UpdateCart(cart.Id, CurrentUser.Id);
-                //}
-                //TempData.Set("Cart", cart);
-                //TempData.Set("Address", model);
-                //return RedirectToAction("Index", "Payment");
+                CartModel cart = _cartService.GetCartDetails(CartId);
+                if (cart != null && CurrentUser != null && cart.UserId == 0)
+                {
+                    _cartService.UpdateCart(cart.Id, CurrentUser.Id);
+                }
+                TempData.Set("Cart", cart);
+                TempData.Set("Address", model);
+                return RedirectToAction("Index", "Payment");
             }
             return View();
         }

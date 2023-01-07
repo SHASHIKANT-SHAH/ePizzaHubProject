@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "9aIAcyziFwY1BKNSA4CGh4w+nb8AsQ4nkEN1jSoPGvvgSPr+K13B5ocQbpN5I/rb1pOyBQu1Bip2T8+S/7I68Q==",
+  "dgSpecHash": "dc7NXKk4Lgc0xXy/qMeTrcaaZkZURLVf3E2BHKZ+e1kUlzkNPDv7HWreH3ApAxCF6Lrlqylk5pKxrB43pwxEAw==",
   "success": true,
   "projectFilePath": "C:\\Users\\ProgoldWeb\\source\\repos\\ePizzaHub29122022\\ePizzaHub.Services\\ePizzaHub.Services.csproj",
   "expectedPackageFiles": [
@@ -39,6 +39,8 @@
     "C:\\Users\\ProgoldWeb\\.nuget\\packages\\microsoft.sqlserver.server\\1.0.0\\microsoft.sqlserver.server.1.0.0.nupkg.sha512",
     "C:\\Users\\ProgoldWeb\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
     "C:\\Users\\ProgoldWeb\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\ProgoldWeb\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\ProgoldWeb\\.nuget\\packages\\razorpay.core\\1.0.2\\razorpay.core.1.0.2.nupkg.sha512",
     "C:\\Users\\ProgoldWeb\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
     "C:\\Users\\ProgoldWeb\\.nuget\\packages\\system.configuration.configurationmanager\\5.0.0\\system.configuration.configurationmanager.5.0.0.nupkg.sha512",
     "C:\\Users\\ProgoldWeb\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.0\\system.diagnostics.diagnosticsource.5.0.0.nupkg.sha512",

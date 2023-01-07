@@ -20,7 +20,7 @@ namespace ePizzaHub.Respositories.Implementations
        
         public int DeleteItem(Guid cartId, int itemId)
         {
-            var item = context.CartItems.Where(ci=>ci.CartId==cartId&&ci.ItemId==itemId).FirstOrDefault();
+            var item = context.CartItems.Where(ci=>ci.CartId==cartId&&ci.Id==itemId).FirstOrDefault();
             if(item != null)
             {
                 context.CartItems.Remove(item);
@@ -45,10 +45,11 @@ namespace ePizzaHub.Respositories.Implementations
                          {
                              Id = cart.Id,
                              UserId = cart.UserId,
-                             CreateDate = cart.CreatedDate,
+                             CreatedDate = cart.CreatedDate,
                              Items = (from cartItem in context.CartItems
                                       join item in context.Items
                                       on cartItem.ItemId equals item.Id
+                                      where cartItem.CartId == CartId
                                       select new ItemModel
                                       {
                                           Id = cartItem.Id,

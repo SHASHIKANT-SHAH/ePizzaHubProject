@@ -14,7 +14,7 @@ namespace ePizzaHub.Models
         public decimal Total { get; set; }
         public decimal Tax { get; set; }
         public decimal GrandTotal { get; set; }
-        public DateTime CreateDate { get; set; }
+        public DateTime CreatedDate { get; set; }
         public IList<ItemModel> Items { get; set; }
     }
 }

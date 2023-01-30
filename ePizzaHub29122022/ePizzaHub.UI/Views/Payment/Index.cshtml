@@ -128,4 +128,47 @@
         </div>
     </div>
 }
+<script src="https://checkout.razorpay.com/v1/checkout.js"></script>
+<script>
+    var options = {
+        "key": "@Model.RazorpayKey",
+        "amount": "@(Model.GrandTotal * 100)",
+        "currency": "@Model.Currency",
+        "name": "@Model.Name",
+        "description": "@Model.Description",
+        "image": "/images/logo.png",
+        "order_id": "@Model.OrderId",
+        "handler": function (response) {
+            $('#rzp_paymentid').val(response.razorpay_payment_id);
+            $('#rzp_orderid').val(response.razorpay_order_id);
+            $("#rzp_signature").val(response.razorpay_signature);
+            $('#PaymentForm').submit();
+        },
+        "prefill": {
+            "name": "@CurrentUser.Name",
+            "email": "@CurrentUser.Email",
+            "contact": "@CurrentUser.PhoneNumber"
+        },
+        "notes": {
+            "address": "NA"
+        },
+        "theme": {
+            "color": "#4285F4"
+        }
+    };
+    var rzp = new Razorpay(options);
 
+    window.onload = function () {
+        document.getElementById('rzp-button').click();
+    };
+
+    document.getElementById('rzp-button').onclick = function (e) {
+        rzp.open();
+        e.preventDefault();
+    };
+
+    function submitToPayment() {
+        rzp.open();
+        e.preventDefault();
+    }
+</script>
